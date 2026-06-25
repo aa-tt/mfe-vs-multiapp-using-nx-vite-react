@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/todo-mfe/todo/dist/.dev-server.zip!/" />
+      <root url="jar://$PROJECT_DIR$/todo-mfe/todo/dist/@mf-types.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
