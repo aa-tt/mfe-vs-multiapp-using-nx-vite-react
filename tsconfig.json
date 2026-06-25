@@ -1,0 +1,28 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./shell-e2e"
+    },
+    {
+      "path": "./shell"
+    },
+    {
+      "path": "./login-e2e"
+    },
+    {
+      "path": "./login"
+    },
+    {
+      "path": "./todo-e2e"
+    },
+    {
+      "path": "./todo"
+    },
+    {
+      "path": "./ui"
+    }
+  ]
+}
