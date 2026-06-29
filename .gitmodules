@@ -1,0 +1,6 @@
+[submodule "todo-mfe"]
+    path = todo-mfe
+    url = https://github.com/aa-tt/todo-mfe.git
+[submodule "todo-multiapp"]
+    path = todo-multiapp
+    url = https://github.com/aa-tt/todo-multiapp.git
